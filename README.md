@@ -3,4 +3,4 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. Arrays of methods. The map() method of Array. Destructuring assignment
 ***
 
-### Square a number of an Array
+### The Square a number of the Array
