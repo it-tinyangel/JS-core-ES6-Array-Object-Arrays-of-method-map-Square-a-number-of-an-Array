@@ -9,6 +9,6 @@
 
 - The given array arr with numbers.
 
-- Create a new array consisting of the squares of these numbers using the map method.
+- Create a new array consisting of the squares of these numbers using the map() Array's Method.
 
 - Output the result to the console.
